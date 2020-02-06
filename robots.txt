@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fiujeehif.wcf.bz/sitemap.xml
